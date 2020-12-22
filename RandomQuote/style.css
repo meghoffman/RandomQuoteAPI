@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+    
+  }
+  
+  h1 {
+    font-size: 3em;
+    font-family: 'Spartan', sans-serif;
+    margin-top: 150px;
+    margin-bottom: 50px;
+  }
+  
+  #quote {
+    font-family: 'Parisienne', cursive;
+    font-size: 2em;
+    
+  }
+  
+  button {
+    cursor: pointer;
+  }
